@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "f98d15d161baa97b865b5f7b782e1ad64e88d56ca758d8dc74b574d8bc4135fe",
+  "generatedAtUtc": "2026-07-09T21:35:26.5545338Z",
+  "mode": "dist",
+  "appDisplayName": "kmp",
+  "bundleId": "com.prodyum.kmp",
+  "version": "1.0.0",
+  "buildNumber": "1",
+  "ipaFileName": "kmp-install.ipa",
+  "ipaSha256": "dd30a0b4d02cd2a2e952df407180ed510ad9d000860c25382f482d55cb895ce4",
+  "manifestSha256": "34e980ade2628f822b0da983b8004df646972d9276bb811de0709df4455c77cc",
+  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29051627072",
+  "pagesUrl": "https://prodyum.github.io/kmp-installer/",
+  "manifestUrl": "https://prodyum.github.io/kmp-installer/manifest.plist",
+  "ipaUrl": "https://prodyum.github.io/kmp-installer/ipa/kmp-install.ipa"
+}
