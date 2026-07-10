@@ -1,0 +1,14 @@
+{
+  "buildNumber": "1",
+  "bundleId": "com.prodyum.kmp",
+  "cacheSchemaVersion": "1",
+  "commitSha": "d094afa4edc17405983b2013be9aea3b029f725d",
+  "deviceHash": "75cf38476b465ffbd9a8d843a58c137e7ae80e063494373fbeb18f5cf8154bc0",
+  "displayName": "kmp",
+  "ipaType": "dist",
+  "sampleSlug": "kmp",
+  "schemaVersion": 1,
+  "sourceFingerprint": "2b40e7c0ea2ff92d0533f69e9933c96858a3c1ff03ef380ece3ffaa9f532a452",
+  "version": "1.0.0",
+  "xcodeVersion": "Xcode 26.5 Build version 17F42"
+}
